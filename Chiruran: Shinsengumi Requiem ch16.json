@@ -4,5 +4,14 @@
   "artist": "Hashimoto Eiji",
   "author": "Umemura Shinya",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "16": {
+      "title": "16",
+      "volume": "4",
+      "last_updated": "1744588329",
+      "groups": {
+        "blemusachiach": "https://imgur.com/a/chiruran-shinsengumi-requiem-ch16-IFapfKd"
+      }
+    }
+  }
 }
